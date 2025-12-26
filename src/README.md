@@ -736,7 +736,7 @@ Este proyecto utiliza componentes de código abierto. Ver **[Attributions.md](./
 
 ## 🎯 VERSIÓN
 
-**NetAdmin v12.0** - Última actualización: Diciembre 2024
+**NetAdmin v2.0** - Última actualización: Diciembre 2025
 
 ### Cambios recientes (v12.0):
 - ✅ Importación de hojas de vida desde Excel con parser inteligente
@@ -751,4 +751,4 @@ Este proyecto utiliza componentes de código abierto. Ver **[Attributions.md](./
 
 ---
 
-**© 2024 NetAdmin - Sistema Profesional de Gestión de Infraestructura de Red**
+**© 2025 NetAdmin - Sistema Profesional de Gestión de Infraestructura de Red**
